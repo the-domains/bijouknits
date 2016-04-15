@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "hey, man.\_"
-datePublished: '2016-04-15T19:36:56.523Z'
-dateModified: '2016-04-15T19:35:56.937Z'
+datePublished: '2016-04-15T20:02:31.236Z'
+dateModified: '2016-04-15T20:00:52.386Z'
 title: 'bijou knits '
 author: []
 sourcePath: _posts/2016-04-15-bijou-knits.md
@@ -30,8 +30,13 @@ one of my favorite lines out of tom cruise from the movie rock of ages, he uses 
 michi seems to be saying that in the photo...hey, man - where's my chewy? 
 
 * ..
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/668ab1a1-507d-4949-be0e-74279b3891fd.jpg)
 
 of course there are many more projects as well. i think i am a chronic starter. i do finish some but i tend to frog a lot.here's a stephen west pattern i have on the needles, called earth & sky.
+
+  
+  
+  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/018020e7-3ea5-4974-8bdd-09352ea8dcc2.jpg)
+
+this may just be about knitting and pugs and possibly one or two other things.
