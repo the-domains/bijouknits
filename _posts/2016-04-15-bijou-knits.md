@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "hey, man.\_"
-datePublished: '2016-04-15T19:23:50.461Z'
-dateModified: '2016-04-15T19:23:48.231Z'
+datePublished: '2016-04-15T19:30:29.192Z'
+dateModified: '2016-04-15T19:30:03.638Z'
 title: 'bijou knits '
 author: []
 sourcePath: _posts/2016-04-15-bijou-knits.md
@@ -31,5 +31,8 @@ michi seems to be saying that in the photo...hey, man - where's my chewy?
 
 * currently on the needles - a [stephen west][0] pattern called boneyard shawl.
 * of course there are many more projects as well. i think i am a chronic starter. i do finish some but i tend to frog a lot...
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/668ab1a1-507d-4949-be0e-74279b3891fd.jpg)
+
+here's another stephen west pattern i have on the needles
 
 [0]: http://westknits.com/index.php/pattern/shawls/boneyard-shawl/
