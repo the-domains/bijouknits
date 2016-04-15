@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "hey, man.\_"
-datePublished: '2016-04-15T19:22:07.354Z'
-dateModified: '2016-04-15T19:21:52.330Z'
+datePublished: '2016-04-15T19:23:50.461Z'
+dateModified: '2016-04-15T19:23:48.231Z'
 title: 'bijou knits '
 author: []
 sourcePath: _posts/2016-04-15-bijou-knits.md
@@ -29,7 +29,7 @@ one of my favorite lines out of tom cruise from the movie rock of ages, he uses 
 
 michi seems to be saying that in the photo...hey, man - where's my chewy? 
 
-* currently on the needles - a [stephen west][0] pattern called exploration station.        
+* currently on the needles - a [stephen west][0] pattern called boneyard shawl.
 * of course there are many more projects as well. i think i am a chronic starter. i do finish some but i tend to frog a lot...
 
 [0]: http://westknits.com/index.php/pattern/shawls/boneyard-shawl/
