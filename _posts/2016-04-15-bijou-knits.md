@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "hey, man.\_"
-datePublished: '2016-04-15T19:11:03.475Z'
-dateModified: '2016-04-15T19:10:34.211Z'
+datePublished: '2016-04-15T19:17:21.609Z'
+dateModified: '2016-04-15T19:11:42.561Z'
 title: 'bijou knits '
 author: []
+sourcePath: _posts/2016-04-15-bijou-knits.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-bijou-knits.md
-published: true
 url: bijou-knits/index.html
 _type: Article
 
